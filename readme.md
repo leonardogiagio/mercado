@@ -1,6 +1,6 @@
 # Projeto Mercado
 
-Este é um projeto Mercado que consiste em um aplicativo web com um backend em PHP e um banco de dados PostgreSQL. O zip do front-end em React também está presente na pasta raíz.
+Este é um projeto Mercado que consiste em uma aplicação web com um backend em PHP e um banco de dados PostgreSQL. O zip do front-end em React também está presente na pasta raíz.
 
 ## Instalação
 
